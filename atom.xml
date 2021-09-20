@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://githut-user.github.io</id>
     <title>rittonの小屋</title>
-    <updated>2021-09-20T14:12:23.919Z</updated>
+    <updated>2021-09-20T14:13:12.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://githut-user.github.io"/>
+    <link rel="self" href="https://githut-user.github.io/atom.xml"/>
     <subtitle>大庆编程人
 
 </subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://githut-user.github.io/images/avatar.png</logo>
+    <icon>https://githut-user.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, rittonの小屋</rights>
     <entry>
         <title type="html"><![CDATA[集训DAY1-7总结暨对未来的规划]]></title>
-        <id>http://localhost:4000/post/no.3/</id>
-        <link href="http://localhost:4000/post/no.3/">
+        <id>https://githut-user.github.io/post/no.3/</id>
+        <link href="https://githut-user.github.io/post/no.3/">
         </link>
         <updated>2021-09-20T12:52:15.000Z</updated>
         <content type="html"><![CDATA[<h1 id="对东师大附中集训day1-7总结暨对未来的规划">对东师大附中集训DAY1-7总结暨对未来的规划</h1>
@@ -817,8 +817,8 @@ int main(){
     </entry>
     <entry>
         <title type="html"><![CDATA[第一篇博客]]></title>
-        <id>http://localhost:4000/post/no.1/</id>
-        <link href="http://localhost:4000/post/no.1/">
+        <id>https://githut-user.github.io/post/no.1/</id>
+        <link href="https://githut-user.github.io/post/no.1/">
         </link>
         <updated>2021-09-20T12:44:20.000Z</updated>
         <content type="html"><![CDATA[<p>今天是2021年9月20日，发布第一篇博客</p>
