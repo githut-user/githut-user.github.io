@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://githut-user.github.io</id>
     <title>rittonの小屋</title>
-    <updated>2021-09-20T12:45:16.543Z</updated>
+    <updated>2021-09-20T12:48:06.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://githut-user.github.io"/>
     <link rel="self" href="https://githut-user.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://githut-user.github.io/images/avatar.png</logo>
     <icon>https://githut-user.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, rittonの小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[精选博客+日志]]></title>
+        <id>https://githut-user.github.io/post/jing-xuan-bo-ke-ri-zhi/</id>
+        <link href="https://githut-user.github.io/post/jing-xuan-bo-ke-ri-zhi/">
+        </link>
+        <updated>2021-09-20T12:46:15.000Z</updated>
+        <content type="html"><![CDATA[<p>以后常常更新吧<br>
+update:2021/9/20</p>
+<ol>
+<li>[第一篇博客]（https://githut-user.github.io/post/di-yi-pian-bo-ke/）</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一篇博客]]></title>
         <id>https://githut-user.github.io/post/di-yi-pian-bo-ke/</id>
