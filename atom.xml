@@ -2,11 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://githut-user.github.io</id>
     <title>rittonの小屋</title>
-    <updated>2021-09-20T13:53:44.717Z</updated>
+    <updated>2021-09-20T14:08:10.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://githut-user.github.io"/>
     <link rel="self" href="https://githut-user.github.io/atom.xml"/>
-    <subtitle>大庆编程人</subtitle>
+    <subtitle>大庆编程人
+
+&lt;a href=&quot;https://githut-user.github.io/post/no.4/&quot; target=&quot;_blank&quot;&gt;有关作者&lt;/a&gt;</subtitle>
     <logo>https://githut-user.github.io/images/avatar.png</logo>
     <icon>https://githut-user.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, rittonの小屋</rights>
