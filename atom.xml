@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://githut-user.github.io</id>
     <title>rittonの小屋</title>
-    <updated>2021-09-22T12:44:42.209Z</updated>
+    <updated>2021-09-22T14:16:33.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://githut-user.github.io"/>
     <link rel="self" href="https://githut-user.github.io/atom.xml"/>
@@ -12,6 +12,466 @@
     <logo>https://githut-user.github.io/images/avatar.png</logo>
     <icon>https://githut-user.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, rittonの小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[句子成分]]></title>
+        <id>https://githut-user.github.io/post/no.5/</id>
+        <link href="https://githut-user.github.io/post/no.5/">
+        </link>
+        <updated>2021-09-22T14:15:47.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="导览">导览</h1>
+<p>英语中，句子分为八类:</p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>主语</mtext><mo separator="true">,</mo><mstyle mathcolor="GoldenRod"><mtext>谓语</mtext><mo separator="true">,</mo><mstyle mathcolor="blue"><mtext>宾语</mtext><mo separator="true">,</mo><mstyle mathcolor="Gainsboro"><mtext>表语</mtext><mo separator="true">,</mo><mstyle mathcolor="Fuchsia"><mtext>定语</mtext><mo separator="true">,</mo><mstyle mathcolor="green"><mtext>状语</mtext><mo separator="true">,</mo><mstyle mathcolor="DarkMagenta"><mtext>补足语</mtext><mo separator="true">,</mo><mstyle mathcolor="YellowGreen"><mtext>同位语</mtext></mstyle></mstyle></mstyle></mstyle></mstyle></mstyle></mstyle></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{主语},\color{GoldenRod}\text{谓语},\color{blue}\text{宾语},\color{Gainsboro}\text{表语},\color{Fuchsia}\text{定语},\color{green}\text{状语},\color{DarkMagenta}\text{补足语},\color{YellowGreen}\text{同位语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:red;"><span class="mord cjk_fallback" style="color:red;">主语</span></span><span class="mpunct" style="color:red;">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord cjk_fallback" style="color:GoldenRod;">谓语</span></span><span class="mpunct" style="color:GoldenRod;">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord text" style="color:blue;"><span class="mord cjk_fallback" style="color:blue;">宾语</span></span><span class="mpunct" style="color:blue;">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord cjk_fallback" style="color:Gainsboro;">表语</span></span><span class="mpunct" style="color:Gainsboro;">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord text" style="color:Fuchsia;"><span class="mord cjk_fallback" style="color:Fuchsia;">定语</span></span><span class="mpunct" style="color:Fuchsia;">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord text" style="color:green;"><span class="mord cjk_fallback" style="color:green;">状语</span></span><span class="mpunct" style="color:green;">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord cjk_fallback" style="color:DarkMagenta;">补足语</span></span><span class="mpunct" style="color:DarkMagenta;">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord text" style="color:YellowGreen;"><span class="mord cjk_fallback" style="color:YellowGreen;">同位语</span></span></span></span></span></p>
+<p>句式成分又分为两大类：</p>
+<ul>
+<li>主干成分：主语、谓语、宾语、表语</li>
+<li>修饰成分：同位语、定语、状语、补语</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">成分</th>
+<th style="text-align:center">作用</th>
+<th style="text-align:center">可充当成分</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">主语</td>
+<td style="text-align:center">句子陈述的对象，谓语动作的发出者</td>
+<td style="text-align:center">名词、代词、非谓语动词、从句</td>
+</tr>
+<tr>
+<td style="text-align:center">谓语</td>
+<td style="text-align:center">说明主语所发出的动作/具有的特征和状态</td>
+<td style="text-align:center"><strong>实义动词</strong>或<strong>系动词</strong></td>
+</tr>
+<tr>
+<td style="text-align:center">宾语</td>
+<td style="text-align:center">谓语动作的承受者</td>
+<td style="text-align:center">名词、代词、非谓语动词、从句</td>
+</tr>
+<tr>
+<td style="text-align:center">表语</td>
+<td style="text-align:center">说明主语的状态，表语一般放在系动词之后</td>
+<td style="text-align:center">名词、代词、非谓语动词、从句、形容词、介词</td>
+</tr>
+<tr>
+<td style="text-align:center">同位语</td>
+<td style="text-align:center"><a href="https://www.luogu.com.cn/paste/kx873bmd">点击此处查看</a></td>
+<td style="text-align:center">名词、代词、非谓语动词、从句</td>
+</tr>
+<tr>
+<td style="text-align:center">定语</td>
+<td style="text-align:center"><a href="https://www.luogu.com.cn/paste/v3rjy6pv">点击此处查看</a></td>
+<td style="text-align:center">名词、代词、非谓语动词、从句、形容词、介词短语</td>
+</tr>
+<tr>
+<td style="text-align:center">状语</td>
+<td style="text-align:center"><a href="https://www.luogu.com.cn/paste/ple6dko1">点击此处查看</a></td>
+<td style="text-align:center">副词、介词短语、非谓语动词、从句</td>
+</tr>
+<tr>
+<td style="text-align:center">补语</td>
+<td style="text-align:center"><a href="https://www.luogu.com.cn/paste/90xwwpr3">点击此处查看</a></td>
+<td style="text-align:center">最常见的是宾语补足语，相当于定语</td>
+</tr>
+</tbody>
+</table>
+<h1 id="正文">正文</h1>
+<h2 id="no1-colorredtext主语">No.1 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>主语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{主语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:red;"><span class="mord cjk_fallback" style="color:red;">主语</span></span></span></span></span></h2>
+<ul>
+<li>谓语动作的发出者</li>
+</ul>
+<p>例句一</p>
+<ul>
+<li>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>The sheeps</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{The sheeps}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">The sheeps</span></span></span></span></span> are having breakfast.</p>
+</li>
+<li>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>The rabbit</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{The rabbit}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">The rabbit</span></span></span></span></span> is jumping.</p>
+</li>
+</ul>
+<p>在以上两句中，名词充当了 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>主语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{主语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:red;"><span class="mord cjk_fallback" style="color:red;">主语</span></span></span></span></span> 。</p>
+<p>但注意，做主语时，可数名词不能单独使用，前面需要加冠词或变为负数。</p>
+<p>例句二</p>
+<ul>
+<li>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>I</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{I}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">I</span></span></span></span></span> lovRe drinking cola.</p>
+</li>
+<li>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>She</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{She}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">She</span></span></span></span></span> is the monitor of my class.</p>
+</li>
+</ul>
+<p>在以上两句中，代词充当了 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>主语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{主语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:red;"><span class="mord cjk_fallback" style="color:red;">主语</span></span></span></span></span>。</p>
+<p>例句三</p>
+<ul>
+<li>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>Reading</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{Reading}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">Reading</span></span></span></span></span> is good for our brain.（<strong>动名词</strong>作主语）</p>
+</li>
+<li>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>To keep the classroom tidy</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{To keep the classroom tidy}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">To keep the classroom tidy</span></span></span></span></span> is everyone's duty.（<strong>不定式</strong>作主语）</p>
+</li>
+<li>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>It</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{It}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">It</span></span></span></span></span> takes me more than fifty days to have a job.（<strong>不定式</strong>作主语，it是<strong>形式主语</strong>，真正的主语是to have a job）</p>
+</li>
+</ul>
+<p>在以上三句中，非谓语动词充当了 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>主语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{主语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:red;"><span class="mord cjk_fallback" style="color:red;">主语</span></span></span></span></span>。</p>
+<p>在讲解下个例句之前，笔者想与大家分享一道题<a href="https://ks.wjx.top/vj/wnajOmK.aspx">一道坑人的题</a></p>
+<p>例句四</p>
+<ul>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>The day</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{The day}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">The day</span></span></span></span></span>  we are look forward tocomes at last.</li>
+</ul>
+<p>在上面这个句子，we are looking foword to 作了 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="red"><mtext>The day</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{red}\text{The day}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:red;"><span class="mord" style="color:red;">The day</span></span></span></span></span> 的主语，故后面要用comes</p>
+<h2 id="no2-colorgoldenrodtext谓语">No.2 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>谓语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{谓语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord cjk_fallback" style="color:GoldenRod;">谓语</span></span></span></span></span></h2>
+<p><strong>谓语说明主语所发出的动作或具有的特征和状态。谓语由动词（实义动词/系动词）来承担。</strong></p>
+<p>谓语同样是分两种：</p>
+<ul>
+<li>
+<p>动作型谓语：说明主语做什么的。</p>
+</li>
+<li>
+<p>状态型谓语：说明主语是什么或者怎么样的。</p>
+</li>
+</ul>
+<p>一般来说，动作型谓语就是由动词构成的；状态型谓语是由“系表结构”构成的。</p>
+<p>注意：谓语只跟主语有关系，说明主语的情况，跟其他成分没有关系。如时态方面的谓语形式。</p>
+<h3 id="1动作型谓语">1.动作型谓语</h3>
+<p>动作型谓语就是由动词构成的。</p>
+<p>动词的定义：表示动作或心理活动的词语。如eat（吃）、drink（喝）、buy（买）是表示动作的动词；think（思考）、like（喜欢）、know（知道）、consider（考虑）、hope（希望）这些词语没有 明显的动作或者说是一种看不见的动作，这些都是表示心理行为的词语，也属于动词的范畴。</p>
+<h4 id="1简单谓语由实义动词动词短语构成">1）简单谓语（由“实义动词/动词短语”构成）</h4>
+<p>实义动词：表示“有实际意义”的 动词，用来区别系动词、助动词、情态动词。</p>
+<p>动词短语：由动词和另一个单词或者几个单词构成的词组。动词短语虽然由几个词语构成，但是实际上只是表示一个动作。如“look after照顾”，“look forward to盼望”，只是一个动作，所以动词短语相当于一个动词的作用。只是这个动词不是单独的一个词，而是几个词共同表达一个动作，因此可以把动词短语称为“复合动词”。</p>
+<p>常见的简单动词和动词短语：say(说)、talk（谈话）、speak（说）、type（打字）、buy（买）、look at（看）、look after（照顾）、get up（起床）。</p>
+<p>例子：</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>work</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{work}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">work</span></span></span></span></span> every day.我每天工作。“work”就是说明主语“I”做的动作，所以动词“work”就是谓语。</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>run</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{run}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">run</span></span></span></span></span> every day.我每天跑步。“run”就是说明主语“I“做的动作，所以动词”run“就是谓语。</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>love</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{love}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">love</span></span></span></span></span> you. 我爱你。&quot;love&quot;是一个心理活动，所以”love“是谓语。</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>speak</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{speak}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">speak</span></span></span></span></span> Chinese.我讲中文。中的”speak“。</p>
+<p>She <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>looks after</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{looks after}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">looks after</span></span></span></span></span> her sister.她照顾她的妹妹中的”looks after“。</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>get up</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{get up}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.80952em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">get up</span></span></span></span></span> at six.我六点起床中的”get up“。</p>
+<h4 id="2复合谓语">2）复合谓语</h4>
+<p>就是由简单谓语再加上其他词语，共同作谓语的情况。主要有下面三种形式：</p>
+<p>情态动词+实义动词 / 动词短语的原形=复合谓语。如：<br>
+I can speak Cantonese/Mandarin.我会说广东话/普通话。can+speak=复合谓语。</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>can look after</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{can look after}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">can look after</span></span></span></span></span> her.我可以照顾她。</p>
+<p>”can“就是一个情态动词，“can speak”和“can look after”都是复合谓语。</p>
+<p>助动词+实义动词或者动词短语的原形=复合谓语。如：will 助动词。<br>
+I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>will buy</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{will buy}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">will buy</span></span></span></span></span> a new book tomorrow.我明天要买一本新书。（一般将来时态）</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>will get up</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{will get up}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">will get up</span></span></span></span></span> early tomorrow.我明天要早起。（一般将来时态）</p>
+<p>“will buy”和“will get up”都是复合谓语。</p>
+<p>助动词+其他的动词形式（be+doing或have/has+done）<br>
+I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>am working</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{am working}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">am working</span></span></span></span></span> now.我现在正在工作。（现在进行时态）。</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>have learned</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{have learned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">have learned</span></span></span></span></span> English for 10 years.我已经学了10年英语了。（现在完成时态）。</p>
+<p>“am working”和“have learned”都是复合谓语。</p>
+<p>助动词是没有意思的，只是用来帮助构成某种结构（所以也叫结构助词），如：时态、被动语态、疑问句、否定句等。</p>
+<h3 id="2状态型谓语">2.状态型谓语</h3>
+<p>状态型谓语由“系动词+表语”构成。从某种意义上讲，“系动词+表语”也是一种复合谓语。</p>
+<p>系动词主要由“be”充当，当然其他的系动词也可以。但是那些都是少数的，90%以上的情况是由“be”充当，所以经常说“be+表语”。“Be”是一个非常重要也非常特殊的词语。“Be”有八种形式：“be、am、is、are、was、were、being、been”，它们意思都是相同的。</p>
+<p>当主语是“I”就用“am”；当主语是单数就用“is”；当主语是复数或“you”就用“are”。</p>
+<p>例子：</p>
+<p>I <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>am</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{am}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">am</span></span></span></span></span> happy。我高兴/快乐。am是系动词，happy是形容词作表语，所以状态型谓语就是“am happy”。</p>
+<p>He <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>is</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{is}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66786em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">is</span></span></span></span></span> a doctor.他是一名医生。is是系动词，a doctor是名词作表语，所以状态型谓语就是“is a doctor”。</p>
+<p>You <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>are</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{are}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">are</span></span></span></span></span> cool.你很酷。are是系动词，cool是形容词作表语，所以状态型谓语就是“are cool”。</p>
+<p>They <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="GoldenRod"><mtext>are</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{GoldenRod}\text{are}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord text" style="color:GoldenRod;"><span class="mord" style="color:GoldenRod;">are</span></span></span></span></span> students.他们是学生。are是系动词，students是名词作表语，所以状态型谓语就是“are students”。</p>
+<p>“be”的其他格式，也可简单了解一下。</p>
+<p>was/were  用于过去时态。</p>
+<p>been  用于完成时态。</p>
+<p>being  用于被动语态，放介词后面作介词宾语或者构成动名词。</p>
+<p>be用于动词不定式或者放在情态动词、助动词后，如to be happy，will be，should be，can be。</p>
+<p><a href="https://ks.wjx.top/vj/QPi5Elb.aspx"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathsize="2.074em"><mtext>主语谓语练习</mtext></mstyle></mrow><annotation encoding="application/x-tex">\huge\text{主语谓语练习}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.41722642em;vertical-align:0em;"></span><span class="mord text sizing reset-size6 size10"><span class="mord cjk_fallback">主语谓语练习</span></span></span></span></span></a></p>
+<h2 id="no3-colorgainsborotext表语">No.3 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>表语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{表语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord cjk_fallback" style="color:Gainsboro;">表语</span></span></span></span></span></h2>
+<pre><code>本来是想讲完宾语再讲表语的，结果它和动词的联系比较大，所以就先讲表语了~
+</code></pre>
+<p><strong>表语其实属于谓语的范畴</strong>，但是不能说表语就是谓语，因为“系动词+表语”才是谓语。系动词和表语是不能分开的，没有系动词就没有表语，没有表语就没有系动词。</p>
+<p>表语的定义跟状态型的谓语一样，说明主语是什么或者怎么样的词语就是表语，也可以说是说明主语的情况或者说明主语状态的词语。总之，系动词后面的词语就是表语。</p>
+<p>那么，什么词可以作表语呢？</p>
+<p>在英语里面，名词、形容词、介词短语、名词所有格、动词不定式、动名词、代词、数词、分词、副词、句子都可以作表语。</p>
+<h3 id="1形容词作表语">1.形容词作表语，</h3>
+<p>如：</p>
+<ul>
+<li>I am <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>rich</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{rich}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">rich</span></span></span></span></span>.我有钱。</li>
+<li>You are <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>busy</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{busy}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">busy</span></span></span></span></span>.你忙。</li>
+<li>We are <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>lucky</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{lucky}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">lucky</span></span></span></span></span>.他们是幸运的。</li>
+</ul>
+<h3 id="2名词作表语">2.名词作表语，</h3>
+<p>如:</p>
+<ul>
+<li>I am <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>Eileen</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{Eileen}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">Eileen</span></span></span></span></span>.我是Eileen。</li>
+<li>You are <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>my friend</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{my friend}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">my friend</span></span></span></span></span>.你是我的朋友。</li>
+<li>She is <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>a nurse</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{a nurse}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">a nurse</span></span></span></span></span>.她是一个护士。</li>
+<li>They are <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>bosses</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{bosses}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">bosses</span></span></span></span></span>.他们是老板。</li>
+</ul>
+<h3 id="3介词短语作表语">3.介词短语作表语，</h3>
+<p>如：</p>
+<ul>
+<li>
+<p>I am <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>in Guangdong</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{in Guangdong}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">in Guangdong</span></span></span></span></span>.我在广东。</p>
+</li>
+<li>
+<p>You are <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>in Beijing</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{in Beijing}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">in Beijing</span></span></span></span></span>.你在北京。</p>
+</li>
+<li>
+<p>She is under <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>the tree</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{the tree}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">the tree</span></span></span></span></span>.她在树下。</p>
+</li>
+<li>
+<p>They are on <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Gainsboro"><mtext>the playground</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Gainsboro}\text{the playground}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:Gainsboro;"><span class="mord" style="color:Gainsboro;">the playground</span></span></span></span></span>.他们在操场上。</p>
+</li>
+</ul>
+<p>即：</p>
+<ol>
+<li>
+<p>Be+名词=系动词+表语=状态型谓语</p>
+</li>
+<li>
+<p>Be+形容词=系动词+表语=状态型谓语</p>
+</li>
+<li>
+<p>Be+介词短语=系动词+表语=状态型谓语</p>
+</li>
+</ol>
+<h2 id="no4-colorbluetext宾语">No.4 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="blue"><mtext>宾语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{blue}\text{宾语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:blue;"><span class="mord cjk_fallback" style="color:blue;">宾语</span></span></span></span></span></h2>
+<h4 id="定义宾语是动作-行为的对象由名词-代词-不定式-或相当于名词的词或短语或从句来充当它和谓语动词一起说明主语是什么通常放在及物动词或者介词之后-有时会有双宾语-在被动结构中才会翻身农奴把歌唱">定义：宾语是动作、行为的对象，由名词、代词、不定式、或相当于名词的词或短语或从句来充当，它和谓语动词一起说明主语是什么，通常放在及物动词或者介词之后。有时会有双宾语。在被动结构中才会“翻身农奴把歌唱”</h4>
+<p>例句：</p>
+<ul>
+<li>
+<p>My son reads <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="blue"><mtext>a novel</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>名词作宾语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{blue}\text{a  novel}}_{\text{名词作宾语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.020771em;vertical-align:-1.3263310000000001em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999997em;"><span style="top:-1.6736689999999999em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">名词作宾语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span class="svg-align" style="top:-2.352em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:blue;"><span class="mord" style="color:blue;">a novel</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.648em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.3263310000000001em;"><span></span></span></span></span></span></span></span></span> every day.</p>
+</li>
+<li>
+<p>He likes  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="blue"><mtext>to sleep in the open air</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>不定式作宾语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{blue}\text{to sleep in the open air}}_{\text{不定式作宾语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.215211em;vertical-align:-1.5207709999999999em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">不定式作宾语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:blue;"><span class="mord" style="color:blue;">to sleep in the open air</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5207709999999999em;"><span></span></span></span></span></span></span></span></span>.</p>
+</li>
+<li>
+<p>The Russian girl enjoyed <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="blue"><mtext>living in China</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>动名词作宾语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{blue}\text{living in China}}_{\text{动名词作宾语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.215211em;vertical-align:-1.5207709999999999em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">动名词作宾语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:blue;"><span class="mord" style="color:blue;">living in China</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5207709999999999em;"><span></span></span></span></span></span></span></span></span>.</p>
+</li>
+<li>
+<p>I believe <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="blue"><mtext>that they can finish the work in time</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>从句作宾语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{blue}\text{that they can finish the work in time}}_{\text{从句作宾语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.215211em;vertical-align:-1.5207709999999999em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">从句作宾语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:blue;"><span class="mord" style="color:blue;">that they can finish the work in time</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5207709999999999em;"><span></span></span></span></span></span></span></span></span>.</p>
+</li>
+<li>
+<p>We brought <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="blue"><mtext>them some food</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>双宾语：间接宾语+直接宾语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{blue}\text{them some food}}_{\text{双宾语：间接宾语+直接宾语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.079102em;vertical-align:-1.384662em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999997em;"><span style="top:-1.6736689999999999em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">双宾语：间接宾语</span><span class="mord mtight">+</span><span class="mord cjk_fallback mtight">直接宾语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span class="svg-align" style="top:-2.352em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:blue;"><span class="mord" style="color:blue;">them some food</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.648em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.384662em;"><span></span></span></span></span></span></span></span></span>.</p>
+</li>
+<li>
+<p>Doctors advise <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="blue"><mtext>us to take regular execise</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>复合宾语：宾语+宾语补足语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{blue}\text{us to take regular execise}}_{\text{复合宾语：宾语+宾语补足语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.273542em;vertical-align:-1.5791019999999998em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944400000000002em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">复合宾语：宾语</span><span class="mord mtight">+</span><span class="mord cjk_fallback mtight">宾语补足语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:blue;"><span class="mord" style="color:blue;">us to take regular execise</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5791019999999998em;"><span></span></span></span></span></span></span></span></span>.</p>
+</li>
+</ul>
+<h2 id="no5-colordarkmagentatext补足语">No.5 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>补足语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{补足语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord cjk_fallback" style="color:DarkMagenta;">补足语</span></span></span></span></span></h2>
+<h4 id="定义宾语补足语简称宾补是对宾语进行补充说明的句子成分一般放在宾语之后-常用作宾补的有名词-形容词-副词-介词短语-不定式-现在分词-过去分词等-宾语宾语补足语可统称为复合宾语">定义：宾语补足语简称宾补，是对宾语进行补充说明的句子成分，一般放在宾语之后。常用作宾补的有名词、形容词、副词、介词短语、不定式、现在分词、过去分词等。“宾语＋宾语补足语”可统称为“复合宾语”。</h4>
+<p>复合宾语(宾语＋宾语补足语)的结构</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">结构</th>
+<th style="text-align:center">注释</th>
+<th style="text-align:center">例句</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">宾语＋名词</td>
+<td style="text-align:center">常用于该结构的动词有：name，call，make，find，think，leave等。</td>
+<td style="text-align:center">We call him <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>Peter</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{Peter}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">Peter</span></span></span></span></span>.They made her <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>their monitor</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{their monitor}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">their monitor</span></span></span></span></span>.</td>
+</tr>
+<tr>
+<td style="text-align:center">宾语＋形容词</td>
+<td style="text-align:center">常用于该结构的动词有：keep，think，believe，leave，drive，make，get，want等。</td>
+<td style="text-align:center">We can't leave him <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>alone</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{alone}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">alone</span></span></span></span></span>.She always keeps our classroom <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>clean</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{clean}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">clean</span></span></span></span></span>.</td>
+</tr>
+<tr>
+<td style="text-align:center">宾语＋副词</td>
+<td style="text-align:center">常用于该结构的副词有：down，up，here，there，home，in，out，anywhere等。</td>
+<td style="text-align:center">My uncle drove us <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>home</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{home}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">home</span></span></span></span></span>.When getting there，she found him <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>out</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{out}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.61508em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">out</span></span></span></span></span>.</td>
+</tr>
+<tr>
+<td style="text-align:center">宾语＋介词短语</td>
+<td style="text-align:center">介词短语作宾补常表示其逻辑主语(即宾语)所处的状态，两者有主表的关系。</td>
+<td style="text-align:center">We found everything <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>in good order</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{in good order}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">in good order</span></span></span></span></span>.I regard him as <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>my best friend</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{my best friend}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">my best friend</span></span></span></span></span>.</td>
+</tr>
+<tr>
+<td style="text-align:center">宾语＋不定式</td>
+<td style="text-align:center">三种情况：要求带to的不定式；要求不带to的不定式；加to或不加to皆可</td>
+<td style="text-align:center">The farmer asked us <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>to have dinner</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{to have dinner}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">to have dinner</span></span></span></span></span>.She helps her mother <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>(to) do housework</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{(to) do housework}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">(to) do housework</span></span></span></span></span>.</td>
+</tr>
+<tr>
+<td style="text-align:center">宾语＋现在分词</td>
+<td style="text-align:center">现在分词作宾补，此时的宾语即为现在分词逻辑上的主语，与宾补有着主谓关系</td>
+<td style="text-align:center">I saw her playing <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>on the playground</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{on the playground}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">on the playground</span></span></span></span></span>.I heard Tom <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>singing in the classroom</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{singing in the classroom}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">singing in the classroom</span></span></span></span></span>.</td>
+</tr>
+<tr>
+<td style="text-align:center">宾语＋过去分词</td>
+<td style="text-align:center">宾语和宾补之间是被动关系，过去分词表示被动和完成</td>
+<td style="text-align:center">I had my watch <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>stolen</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{stolen}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">stolen</span></span></span></span></span> yesterday.She spoke loudly to make herself <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>heard</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{heard}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">heard</span></span></span></span></span>.</td>
+</tr>
+<tr>
+<td style="text-align:center">形式宾语＋形容词</td>
+<td style="text-align:center">不定式(短语)、动名词(短语)、名词性从句作宾语，常用it作形式宾语</td>
+<td style="text-align:center">He found <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>it impossible</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{it impossible}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">it impossible</span></span></span></span></span> to rise.I think <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>it</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{it}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66786em;vertical-align:0em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">it</span></span></span></span></span> no use <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="DarkMagenta"><mtext>arguing with her</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{DarkMagenta}\text{arguing with her}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">arguing with her</span></span></span></span></span>.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="句型主语宾语宾语补足语改为被动语态时宾语补足语就变为主语补足语">句型“主语＋宾语＋宾语补足语”改为被动语态时，宾语补足语就变为主语补足语。</h3>
+<ul>
+<li>
+<p>The little boy saw a girl<span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="DarkMagenta"><mtext>go into the building</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>省略to的不定式作宾语补足语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{DarkMagenta}\text{go into the building}}_{\text{省略to的不定式作宾语补足语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.215211em;vertical-align:-1.5207709999999999em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">省略</span><span class="mord mtight">to</span><span class="mord cjk_fallback mtight">的不定式作宾语补足语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">go into the building</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5207709999999999em;"><span></span></span></span></span></span></span></span></span>.</p>
+</li>
+<li>
+<p>A girl was seen <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="DarkMagenta"><mtext>to go into a building</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>不定式组主语的补足语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{DarkMagenta}\text{to go into a building}}_{\text{不定式组主语的补足语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.215211em;vertical-align:-1.5207709999999999em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">不定式组主语的补足语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:DarkMagenta;"><span class="mord" style="color:DarkMagenta;">to go into a building</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5207709999999999em;"><span></span></span></span></span></span></span></span></span> ( by the little boy )</p>
+</li>
+</ul>
+<h2 id="no6-colorfuchsiatext定语">No.6 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Fuchsia"><mtext>定语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Fuchsia}\text{定语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:Fuchsia;"><span class="mord cjk_fallback" style="color:Fuchsia;">定语</span></span></span></span></span></h2>
+<h4 id="定语是用于对名词或代词起修饰-限定作用的词-短语或句子-单个词作定语时常放在被修饰词之前前置定语而短语或从句作定语时往往放在被修饰词之后后置定语">定语是用于对名词或代词起修饰、限定作用的词、短语或句子。单个词作定语时常放在被修饰词之前(前置定语)，而短语或从句作定语时，往往放在被修饰词之后(后置定语)。</h4>
+<ul>
+<li>My <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="Fuchsia"><mtext>best</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>形容词作前置定语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{Fuchsia}\text{best}}_{\text{形容词作前置定语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.020771em;vertical-align:-1.3263310000000001em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999997em;"><span style="top:-1.6736689999999999em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">形容词作前置定语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span class="svg-align" style="top:-2.352em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:Fuchsia;"><span class="mord" style="color:Fuchsia;">best</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.648em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.3263310000000001em;"><span></span></span></span></span></span></span></span></span> friend is a dog <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="Fuchsia"><mtext>which is called Shy</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>从句作后置定语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{Fuchsia}\text{which is called Shy}}_{\text{从句作后置定语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.215211em;vertical-align:-1.5207709999999999em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">从句作后置定语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:Fuchsia;"><span class="mord" style="color:Fuchsia;">which is called Shy</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5207709999999999em;"><span></span></span></span></span></span></span></span></span>.</li>
+</ul>
+<h4 id="常用作定语的有名词-代词-数词-形容词-副词-介词短语-动名词-动词不定式-现在分词-过去分词-定语从句等">常用作定语的有名词、代词、数词、形容词、副词、介词短语、动名词、动词不定式、现在分词、过去分词、定语从句等。</h4>
+<ol>
+<li>形容词作定语　The <strong>black</strong> bike is mine.</li>
+<li>代词作定语　What's <strong>your</strong> name?</li>
+<li>名词作定语　They made some <strong>paper</strong> flowers.</li>
+<li>介词短语作定语　The boys <strong>in the room</strong> are in Class Three，Grade One.</li>
+<li>不定式作定语　I have no time <strong>to travel</strong> in spring.</li>
+<li>从句作定语　The tall boy <strong>who is standing there</strong> is Peter.</li>
+<li>过去分词作定语　There are <strong>fallen</strong> leaves on the ground.</li>
+</ol>
+<h2 id="no7-colorgreentext状语">No.7 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="green"><mtext>状语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{green}\text{状语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:green;"><span class="mord cjk_fallback" style="color:green;">状语</span></span></span></span></span></h2>
+<h4 id="状语用来修饰动词-形容词-副词-介词短语或整个句子用来表示行为发生的时间-地点-目的-原因-结果-条件-让步-程度-方式-比较-伴随等-状语一般放在句末但有时也可以放在句首-句中">状语用来修饰动词、形容词、副词、介词短语或整个句子，用来表示行为发生的时间、地点、目的、原因、结果、条件、让步、程度、方式、比较、伴随等。状语一般放在句末，但有时也可以放在句首、句中。</h4>
+<ul>
+<li>Most of the students <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="green"><mtext>really</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>副词做状语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{green}\text{really}}_{\text{副词做状语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.215211em;vertical-align:-1.5207709999999999em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">副词做状语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:green;"><span class="mord" style="color:green;">really</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5207709999999999em;"><span></span></span></span></span></span></span></span></span>appriciate her <span class="katex"><span class="katex-mathml"><math><semantics><mrow><munder><munder><mstyle mathcolor="green"><mtext>she has top teaching skills</mtext></mstyle><mo stretchy="true">⎵</mo></munder><mtext>从句做状语</mtext></munder></mrow><annotation encoding="application/x-tex">\underbrace{\color{green}\text{she has top teaching skills}}_{\text{从句做状语}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.215211em;vertical-align:-1.5207709999999999em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-1.4792290000000001em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">从句做状语</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6944399999999998em;"><span class="svg-align" style="top:-2.15756em;"><span class="pstrut" style="height:3em;"></span><span class="stretchy" style="height:0.548em;min-width:1.6em;"><span class="brace-left" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+ 35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
+ 0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
+-331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z'/></svg></span><span class="brace-center" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMidYMin slice'><path d='M199572 214
+c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
+ 53.3-86.7 123.7-153 211-199 66.7-36 137.3-56.3 212-62h199568v120H200432c-178.3
+ 11.7-311.7 78.3-403 201-6 8-9.7 12-11 12-.7.7-6.7 1-18 1s-17.3-.3-18-1c-1.3 0
+-5-4-11-12-44.7-59.3-101.3-106.3-170-141s-145.3-54.3-229-60H0V214z'/></svg></span><span class="brace-right" style="height:0.548em;"><svg width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMaxYMin slice'><path d='M399994 0l6 6v35l-6 11c-56 104-135.3 181.3-238 232-57.3
+ 28.7-117 45-179 50H-300V214h399897c43.3-7 81-15 113-26 100.7-33 179.7-91 237
+-174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text" style="color:green;"><span class="mord" style="color:green;">she has top teaching skills</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8424400000000001em;"><span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5207709999999999em;"><span></span></span></span></span></span></span></span></span>.</li>
+</ul>
+<p>状语一般由副词、介词短语、分词短语、不定式、状语从句或相当于副词的词或短语来充当。</p>
+<ul>
+<li>
+<p>He did it <strong>carefully</strong>.(副词用作程度状语)</p>
+</li>
+<li>
+<p><strong>Without his help</strong>, we couldn’t have worked it out.(介词短语用作条件状语)</p>
+</li>
+<li>
+<p><strong>To catch up with my classmates</strong>, I must study hard.(不定式作目的状语)</p>
+</li>
+<li>
+<p>The girls entered the room, <strong>talking and laughing</strong> .(现在分词作伴随状语)</p>
+</li>
+<li>
+<p><strong>When I was young</strong>, I could swim well.(时间状语从句)</p>
+</li>
+<li>
+<p>He helped me <strong>although he didn’t know me</strong>. (让步状语从句)</p>
+</li>
+</ul>
+<h2 id="no8-coloryellowgreentext同位语">No.8 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="YellowGreen"><mtext>同位语</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{YellowGreen}\text{同位语}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text" style="color:YellowGreen;"><span class="mord cjk_fallback" style="color:YellowGreen;">同位语</span></span></span></span></span></h2>
+<h4 id="同位语用于对名词或代词的进一步解释说明且与其前面的名词或代词在语法上处于同等的地位常位于名词或代词之后-常用作同位语的有名词-名词短语-数词-代词-同位语从句等">同位语用于对名词或代词的进一步解释说明，且与其前面的名词或代词在语法上处于同等的地位，常位于名词或代词之后。常用作同位语的有名词、名词短语、数词、代词、同位语从句等。</h4>
+<h2 id="总练习"><a href="https://ks.wjx.top/vj/hDYfSnt.aspx">总练习</a></h2>
+<p>作者：李滕</p>
+<p>2021年9月22日</p>
+<p><a href="https://www.luogu.com.cn/paste/xz94742x">源码</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[集训DAY1-7总结暨对未来的规划]]></title>
         <id>https://githut-user.github.io/post/no.3/</id>
